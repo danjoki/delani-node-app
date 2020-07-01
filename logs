@@ -1,0 +1,15 @@
+Wed Jul 01 2020 14:13:34 GMT+0300 (EAT) | INFO | Server has started on port: 8000 
+Wed Jul 01 2020 14:13:44 GMT+0300 (EAT) | INFO | Request for /portfolio.html has been Received with a request method GET 
+Wed Jul 01 2020 14:13:44 GMT+0300 (EAT) | INFO | About to route a request for /portfolio.html 
+Wed Jul 01 2020 14:13:44 GMT+0300 (EAT) | INFO | Request handler for Portfolio was called 
+Wed Jul 01 2020 14:13:44 GMT+0300 (EAT) | INFO | Request for /css/bootstrap.min.css has been Received with a request method GET 
+Wed Jul 01 2020 14:13:44 GMT+0300 (EAT) | INFO | About to route a request for /css/bootstrap.min.css 
+Wed Jul 01 2020 14:13:44 GMT+0300 (EAT) | INFO | Request for /css/styles.css has been Received with a request method GET 
+Wed Jul 01 2020 14:13:44 GMT+0300 (EAT) | INFO | About to route a request for /css/styles.css 
+Wed Jul 01 2020 14:13:44 GMT+0300 (EAT) | INFO | Request for /js/jquery.min.js has been Received with a request method GET 
+Wed Jul 01 2020 14:13:44 GMT+0300 (EAT) | INFO | Request for /js/script.js has been Received with a request method GET 
+Wed Jul 01 2020 14:13:44 GMT+0300 (EAT) | INFO | About to route a request for /js/jquery.min.js 
+Wed Jul 01 2020 14:13:44 GMT+0300 (EAT) | INFO | About to route a request for /js/script.js 
+Wed Jul 01 2020 14:13:45 GMT+0300 (EAT) | INFO | Request for /favicon.ico has been Received with a request method GET 
+Wed Jul 01 2020 14:13:45 GMT+0300 (EAT) | INFO | About to route a request for /favicon.ico 
+Wed Jul 01 2020 14:13:45 GMT+0300 (EAT) | INFO | No request handler found for /favicon.ico 
