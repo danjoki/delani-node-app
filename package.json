@@ -1,13 +1,24 @@
 {
   "name": "delani-node-app",
   "version": "1.0.0",
+  "description": "## Description This is a demo of how you can build a simple web page using **NODE.JS**, **JQUERY**, **HTML** and **CSS**(Bootstrap) as well as how version your code using **GIT**.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danjoki/delani-node-app.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/danjoki/delani-node-app/issues"
+  },
+  "homepage": "https://github.com/danjoki/delani-node-app#readme"
 }
